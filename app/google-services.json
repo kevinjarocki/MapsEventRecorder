@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094606146191",
+    "firebase_url": "https://mapsmarker-68b07.firebaseio.com",
+    "project_id": "mapsmarker-68b07",
+    "storage_bucket": "mapsmarker-68b07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094606146191:android:c34958ee8fa0d384a67efa",
+        "android_client_info": {
+          "package_name": "ca.kevinjarocki.mapseventrecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094606146191-b4o778ubjq845gb9mfslpqmv9122mpqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8kB1qNRGBGLYNaP8fztnjQTCEPexSapo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094606146191-b4o778ubjq845gb9mfslpqmv9122mpqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

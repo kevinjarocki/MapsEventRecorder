@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MapsEventRecorder</string>
+    <string name="title_fragment_maps">Map</string>
+    <string name="service_not_available">Service is not available</string>
+    <string name="invalid_lat_long_used">Invalid Latitude or Longitude</string>
+    <string name="no_address_found">No Address Found</string>
+    <string name="address_found">Address Found</string>
+    <string name="new_marker">New Marker</string>
+    <string name="been_here">Destination Goal Achieved</string>
+    <string name="would_like_to_go">New Destination Goal.</string>
+    <string name="new_marker_name">Marker Name</string>
+    <string name="new_marker_comment">Comment</string>
+    <string name="add_marker">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="been_here_question">Have you been here before?</string>
+    <string name="MAPVIEW_BUNDLE_KEY">MAPVIEW_BUNDLE_KEY</string>
+    <string name="Snippet">Snippet: </string>
+    <string name="Latitude">Latitude: </string>
+    <string name="Longitude">Longitude: </string>
+    <string name="TextViewAbout">Project 0 by Kevin Jarocki. Please click \"Back\" to go back to the MainActivity</string>
+    <string name="ButtonBack">Back</string>
+    <string name="onAboutClick">onAboutClick</string>
+    <string name="ResetMarkers">Reset all Markers on Map?</string>
+    <string name="Yes">Yes</string>
+</resources>
